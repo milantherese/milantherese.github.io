@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: Milans och Thereses bröllop
+# title: Milans och Thereses bröllop
 
 # Your name to show in the footer
-author: Some Person
+# author: Some Person
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+# navbar-links:
+#   About Me: "aboutme"
+#   Resources:
+#     - Beautiful Jekyll: "https://beautifuljekyll.com"
+#     - Learn markdown: "https://www.markdowntutorial.com/"
+#   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -38,14 +38,14 @@ round-avatar: true
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
-social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+# social-network-links:
+#  email: "someone@example.com"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
+#  github: daattali
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -66,16 +66,16 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
-share-links-active:
-  twitter: false
-  facebook: false
-  linkedin: false
-  vk: false
+# share-links-active:
+#  twitter: false
+#  facebook: false
+#  linkedin: false
+#  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -117,7 +117,7 @@ footer-hover-col: "#0085A1"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/backgroundtest1.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
